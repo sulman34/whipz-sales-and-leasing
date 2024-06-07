@@ -1,0 +1,28 @@
+.banner12-container {
+  gap: var(--dl-space-space-unit);
+  height: 91px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.banner12-max-width {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner12-container1 {
+  gap: var(--dl-space-space-halfunit);
+  height: 133px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner12-title {
+  text-align: center;
+}
+.banner12-text {
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+}
